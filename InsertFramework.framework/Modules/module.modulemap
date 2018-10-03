@@ -1,0 +1,6 @@
+framework module InsertFramework {
+  umbrella header "InsertFramework.h"
+
+  export *
+  module * { export * }
+}
